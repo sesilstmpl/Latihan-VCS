@@ -21,6 +21,8 @@ Berikut adalah tutorial menggunakan Git
 ![Gambar 7](Gambar/ss7.png)
 9. Jika ingin menampilkan Gambar pada repository, maka terlebih dahulu buat folder baru lalu isi gambarnya dalam folder tersebut. lalu kembali ke github ketik git add 'Gambar' lalu ketik git commit -m 'Menambah folder gambar' dan ketik git push -u origin main untuk menambahkan folder tersebut ke dalam repository.
 ![Gambar 8](Gambar/ss8.png)
-10. lalu gambarnya akan muncul seperti ini :
-![Gambar 9](Gambar/ss9.png)
-11. -SELESAI-
+10. Lalu lanjut pada readme, ketik ![Gambar 1](lokasi gambar/nama gambar )
+![Gambar 9](Gambar/ss5.png)
+11. Pada github akan muncul seperti ini 
+![Gambar 10](Gambar/ss9.png)
+12. -SELESAI-
