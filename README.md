@@ -23,3 +23,4 @@ Berikut adalah tutorial menggunakan Git
 ![Gambar 8](Gambar/ss8.png)
 10. lalu gambarnya akan muncul seperti ini :
 ![Gambar 9](Gambar/ss9.png)
+11. -SELESAI-
